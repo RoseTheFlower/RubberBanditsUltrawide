@@ -1,5 +1,9 @@
 ## Rubber Bandits UI fix for ultrawide and wider
 
+**In October 2022, the game [was updated](https://store.steampowered.com/news/app/1206610/view/3323118112709625776) to improve its ultrawide support, which probably makes this solution obsolete.**
+
+
+
 The tool adjusts the user interface for better scaling at ultrawide and wider resolutions, ensuring that no elements are out of view at the score and other screens.
 
 1. [Download](/../../releases) and unpack the archive.
